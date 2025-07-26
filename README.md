@@ -22,6 +22,7 @@ File Read/Write Operations
 GUI basics using Tkinter
 
 📁 Projects Included
+
 📌 Task 1: Command-Line To-Do List
 A simple terminal-based task manager that lets users keep track of their daily activities.
 🔧 Features:
